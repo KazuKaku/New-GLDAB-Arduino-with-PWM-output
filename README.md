@@ -12,6 +12,9 @@ This makes it possible to create a lightweight Ornithopter using a small ppm out
 
 PWM output is 8ch.
 
+
+![250117 NewGLDAB Action ](/image/250117%20NewGLDAB%20Action%20.jpg)
+
 Set the Throttle (3ch) to under 950 msec and over 1950 msec.
 
 When using a new ESC, please set the ESC's operating range with New GLDAB removed before doing the following.
@@ -52,7 +55,6 @@ How New GLDAb by Arduino works
 
 ## How New GLDAB by Arduino with convert PPM to PWM signal output works
 
-![250117 NewGLDAB Action ](/image/250117%20NewGLDAB%20Action%20.jpg)
 
 ![241108 PPM toPWM & Arduino GLDAB by Arduino 4.7KOwm ESC Motor ](/image/241108%20PPM%20toPWM%20&%20Arduino%20GLDAB%20by%20Arduino%204.7KOwm%20ESC%20Motor%20.jpg)
 
