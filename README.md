@@ -12,6 +12,8 @@ This makes it possible to create a lightweight Ornithopter using a small ppm out
 
 PWM output is 8ch.
 
+Set the Throttle (3ch) to under 950 msec and over 1950 msec.
+
 ## How New GLDAB by Arduino with convert PPM to PWM signal output works
 
 ![250117 NewGLDAB Action ](/image/250117%20NewGLDAB%20Action%20.jpg)
