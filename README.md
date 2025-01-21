@@ -20,7 +20,7 @@ Set the Throttle (3ch) to under 950 msec and over 1950 msec.
 
 When using a new ESC, please set the ESC's operating range with New GLDAB removed before doing the following.
 
-Setting of Pre Glide Motor Speed:
+#### Setting of Pre Glide Motor Speed:
 1. Disconnect ESC and battery
 2. Throttle stick to max high position
 3. Connect the ESC and battery -- The motor does not move, the LED turns on (lights up) once, then goes out.
@@ -30,7 +30,7 @@ After that, the LED turns on again.
 6. When the motor stops (the set position is memorized) and the LED is flashing, lower the throttle to the lowest position.
 7. When the LED stops blinking, it will return to normal mode.
 
-How New GLDAb by Arduino works 
+#### How New GLDAb by Arduino works 
 
   1. ThrottleUp -- Motor Run
   2. Throttle max Low
