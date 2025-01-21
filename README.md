@@ -16,6 +16,9 @@ PWM output is 8ch.
 
 ![250117 NewGLDAB Action ](/image/250117%20NewGLDAB%20Action%20.jpg)
 
+![241108 PPM toPWM & Arduino GLDAB by Arduino 4.7KOwm ESC Motor ](/image/241108%20PPM%20toPWM%20&%20Arduino%20GLDAB%20by%20Arduino%204.7KOwm%20ESC%20Motor%20.jpg)
+
+
 YouTube--Making of Convert PPM signal to PWM and GLDAB for Gliding by Arduino board (Arduino pro mini)
         https://www.youtube.com/watch?v=hw5doqiESM8
 
@@ -26,7 +29,6 @@ When increasing the preglide time, increase the i value.
 For example, "i<12000" and "i=12000".
 
 
-![241108 PPM toPWM & Arduino GLDAB by Arduino 4.7KOwm ESC Motor ](/image/241108%20PPM%20toPWM%20&%20Arduino%20GLDAB%20by%20Arduino%204.7KOwm%20ESC%20Motor%20.jpg)
 
 ## Need:
 
@@ -52,6 +54,8 @@ select --  sketch_241110PPMtoPWM8ch_2
 
 ### Kestrel140   
  https://www.youtube.com/playlist?list=PLErvdRrwWuPooMZb0lnvFqdUjO2XE5KBm
+
+
 
 
 
