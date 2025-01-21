@@ -29,6 +29,7 @@ This allows you to use a small 1g receiver without using a large RX.　PWM outpu
 
 241108 PPM toPWM & Arduino GLDAB by Arduino 4.7KOwm ESC Motor
  
+## How New GLDAB by Arduino with convert PPM to PWM signal output works
 
 YouTube--Making of Convert PPM signal to PWM and GLDAB for Gliding by Arduino board (Arduino pro mini)
         https://www.youtube.com/watch?v=hw5doqiESM8
