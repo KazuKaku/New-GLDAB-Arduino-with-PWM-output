@@ -100,7 +100,7 @@ select --  sketch_241110PPMtoPWM8ch_2
 
 
 
-### reference
+## reference
 
 How New GLDAB Works
 http://kakutaclinic.life.coocan.jp/GLDAB.htm
