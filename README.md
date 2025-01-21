@@ -12,6 +12,7 @@ This makes it possible to create a lightweight Ornithopter using a small ppm out
 
 PWM output is 8ch.
 
+## How New GLDAB by Arduino with convert PPM to PWM signal output works
 
 ![250117 NewGLDAB Action ](/image/250117%20NewGLDAB%20Action%20.jpg)
 
@@ -53,7 +54,7 @@ How New GLDAb by Arduino works
 
 ------If the above acts, GLDAB acts normally.
 
-## How New GLDAB by Arduino with convert PPM to PWM signal output works
+
 
 
 ![241108 PPM toPWM & Arduino GLDAB by Arduino 4.7KOwm ESC Motor ](/image/241108%20PPM%20toPWM%20&%20Arduino%20GLDAB%20by%20Arduino%204.7KOwm%20ESC%20Motor%20.jpg)
