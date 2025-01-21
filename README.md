@@ -1,4 +1,4 @@
-# New GLDAB by Arduino with convert PPM to PWM signal output
+## New GLDAB by Arduino with convert PPM to PWM signal output
 
 ![230711-2 Pterasaur3small](/image/230711-2%20Pterasaur3small%20.jpg)
 
@@ -12,7 +12,7 @@ This makes it possible to create a lightweight Ornithopter using a small ppm out
 
 PWM output is 8ch.
 
-## How New GLDAB by Arduino with convert PPM to PWM signal output works
+### How New GLDAB by Arduino with convert PPM to PWM signal output works
 
 ![250117 NewGLDAB Action ](/image/250117%20NewGLDAB%20Action%20.jpg)
 
@@ -71,7 +71,7 @@ For example, "i<12000" and "i=12000".
 
 
 
-## Need:
+### Need:
 
 Arduino pro mini board
 
@@ -82,18 +82,18 @@ Panasonic Hall Sensor IC DN6852-A
 Samll ppm output Receiver (1-2g)
 
 
-## converting ppm signal to PWM signal (8ch) with GLDAB
+### converting ppm signal to PWM signal (8ch) with GLDAB
 select --  sketch_241109ppmtopwmRXwithGLDAB
 
-## Only converting ppm signal to PWM signal (8ch) without GLDAB
+### Only converting ppm signal to PWM signal (8ch) without GLDAB
 select --  sketch_241110PPMtoPWM8ch_2
 
 
-## Small Ornithopter(under 99g) using this device
-### Sterna139  
+### Small Ornithopter(under 99g) using this device
+#### Sterna139  
  https://www.youtube.com/playlist?list=PLErvdRrwWuPqqPNT8EL3EupDDEEbGsFk_
 
-### Kestrel140   
+#### Kestrel140   
  https://www.youtube.com/playlist?list=PLErvdRrwWuPooMZb0lnvFqdUjO2XE5KBm
 
 
