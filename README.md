@@ -79,7 +79,7 @@ Arduino pro mini board
 
 Panasonic Hall Sensor IC DN6852-A
   
-      -------- (If you use Panasonic Hall Sensor IC DN6851, Change "val == 1" to "val == 0" in Line 180.)
+#### -------- (If you use Panasonic Hall Sensor IC DN6851, Change "val == 1" to "val == 0" in Line 180.)
 
 Samll ppm output Receiver (1-2g)
 
