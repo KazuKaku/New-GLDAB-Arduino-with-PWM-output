@@ -97,7 +97,7 @@ select --  sketch_241110PPMtoPWM8ch_2
 
 ### Small Ornithopter(under 99g) using this device
 #### Sterna139  
-https://www.youtube.com/playlist?list=PLErvdRrwWuPqqPNT8EL3EupDDEEbGsFk_
+https://www.youtube.com/playlist?list=PLErvdRrwWuPrpUhB0RaNy50EKSXm14OpG
 
 
 #### Kestrel140   
