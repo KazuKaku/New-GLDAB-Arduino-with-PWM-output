@@ -78,6 +78,12 @@ Arduino pro mini board
 4.7KOhms resistor
 
 Panasonic Hall Sensor IC DN6852-A
+  
+#### -------- (If you use Panasonic Hall Sensor IC DN6851, Change "val == 1" to "val == 0" in Line 180.)
+
+Small neodymium magnet
+
+#### ---------Set magnet so that the south pole faces the side with the Panasonic Hall Sensor IC part lettering.
 
 Samll ppm output Receiver (1-2g)
 
