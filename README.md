@@ -121,3 +121,13 @@ https://github.com/KazuKaku/NewGLDAB-by-Arduino
 How New GLDAB by Arduino Pro mini works
 YouTube Video https://www.youtube.com/watch?v=KpQxz6biprs
 
+## My YouTube channel 
+ Various ServoFlapOrnithopters have been uploaded.
+(https://www.youtube.com/@BZH07614)
+
+## My Website of ornithopter
+ (http://kakutaclinic.life.coocan.jp/HabatakE.htm)
+
+## Request site for production of Kazu Ornithpter
+(http://kakutaclinic.life.coocan.jp/KOrniSSt.html)
+ 
